@@ -1,7 +1,5 @@
-# hackerearth_mcchallenge2
+# Hackerearth_mcchallenge2
 
 https://www.hackerearth.com/problem/machine-learning/funding-successful-projects/
 
-Create and add data in folder.
-
-Result: Submission file in .csv with output
+Use python file to get the prediction in .csv format.
